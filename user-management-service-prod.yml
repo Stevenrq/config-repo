@@ -10,7 +10,8 @@ spring:
       ddl-auto: update
 
 server:
-  port: 8001
+  port: 8000
 
 config:
-  text: "default environment"
+  text: "production environment"
+  cloud: "AWS"

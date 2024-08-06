@@ -10,7 +10,10 @@ spring:
       ddl-auto: update
 
 server:
-  port: 8001
+  port: 8002
 
 config:
-  text: "default environment"
+  text: "development environment"
+  author:
+    name: "Steven"
+    email: "steven@gmail.com"
