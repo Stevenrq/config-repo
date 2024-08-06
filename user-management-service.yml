@@ -10,13 +10,10 @@ spring:
       ddl-auto: update
 
 server:
-  port: 8000
+  port: 8001
 
-management:
-  endpoints:
-    web:
-      exposure:
-        include: * # TODO exposure all endpoints of actuator only in development environment
-
-offers:
-  discount: 590%
+config:
+  text: "setting up default environment"
+  author:
+    name: "Steven"
+    email: "steven@gmail.com"
