@@ -15,7 +15,7 @@ spring:
     password: guest
 
 server:
-  port: 0
+  port: 8002
 
 config:
   text: "development environment"
