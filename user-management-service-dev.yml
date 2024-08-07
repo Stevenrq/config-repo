@@ -20,5 +20,5 @@ server:
 config:
   text: "development environment"
   author:
-    name: "Ricardo"
+    name: "Steven"
     email: "steven@gmail.com"
