@@ -9,4 +9,4 @@ server:
   port: 9000
 
 config:
-  text: "default auth-server environment"
+  text: "default environment"
